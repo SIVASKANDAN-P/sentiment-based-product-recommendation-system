@@ -29,7 +29,7 @@ The objective is to build a model that will improve the recommendations given to
 
 
 ## Author
-- [@SIVASKANDAN-P](https://github.com/SIVASKANDAN-P)
+- [SIVASKANDAN-P](https://github.com/SIVASKANDAN-P)
   
 
 
