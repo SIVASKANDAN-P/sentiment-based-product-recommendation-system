@@ -18,7 +18,9 @@ The objective is to build a model that will improve the recommendations given to
 - Text preprocessing
 - Exploratory data analysis (EDA)
 - Feature extraction
-- 
+- Modeling for sentiment classification
+- Recomendation system
+- Augumenting the prediction from recomendation system with user sentiment 
 
 ## Technologies Used
 - python 3.9
