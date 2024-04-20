@@ -28,6 +28,7 @@ The objective is to build a model that will improve the recommendations given to
 - stats model 0.13.2
 
 ## Conclusions
+The recommendation system is employed to forecast the top 20 products, followed by sentiment classification using logistic regression to determine the top 5 products based on predominantly positive sentiments.
 
 
 ## Author
