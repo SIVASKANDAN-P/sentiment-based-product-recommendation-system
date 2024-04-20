@@ -5,4 +5,31 @@ With the advancement in technology, it is imperative for Ebuss to grow quickly i
 
 The objective is to build a model that will improve the recommendations given to the users given their past reviews and ratings. In order to do this, We have planned to build a sentiment-based product recommendation system
 
+## Table of Contents
+* [High level approach](#high-level-approach)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Author](#author)
+
+<!-- You can include any other section that is pertinent to your problem -->
+
+## High level approach
+- Data loading
+- Text preprocessing
+- Exploratory data analysis (EDA)
+- Feature extraction
+- 
+
+## Technologies Used
+- python 3.9
+- scikit-learn 1.0.2
+- stats model 0.13.2
+
+## Conclusions
+
+
+## Author
+- [@SIVASKANDAN-P)(https://github.com/SIVASKANDAN-P)
+  
+
 
